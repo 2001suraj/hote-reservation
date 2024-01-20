@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1019931084341",
+    "project_id": "hotelreservation-d3913",
+    "storage_bucket": "hotelreservation-d3913.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1019931084341:android:c016e2fe7bf2cd64fe537c",
+        "android_client_info": {
+          "package_name": "com.example.hotel_reservation_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCq2XwY_HNXH7Z1DAYlO5puFAfbY4y9sDM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
